@@ -1,0 +1,78 @@
+[
+    {
+        "nombre":"BARISTA 250gr",
+        "imagen": "img/bolsitaBarista.jpg",
+        "tipo":"Blend de tostado natural",
+        "sabor": "suave",
+        "id": "1",
+        "precio": 390
+    },
+    {
+        "nombre":"ROAST 250gr",
+        "imagen": "img/bolsitaRoast.jpg",
+        "tipo": "Blend de tostado natural",
+        "sabor": "intenso",
+        "precio": 480,
+        "id":"2"
+    },
+    {
+        "nombre":"COLOMBIA 250gr",
+        "imagen": "img/bolsitaColombia.jpg",
+        "tipo":"Blend de tostado natural",
+        "sabor": "suave",
+        "precio": 420,
+        "id":"3"
+    },
+    {
+        "nombre":"ZUCCA 250gr",
+        "imagen": "img/bolsitaZucca.jpg",
+        "tipo": "Varietal de tostado natural",
+        "sabor": "intenso",
+        "precio": 460,
+        "id":"4"
+
+    },
+    {
+        "nombre":"BRASIL 250gr",
+        "imagen": "img/bolsitaBrasil.jpg",
+        "tipo": "Varietal de tostado natural",
+        "sabor": "suave",
+        "precio": 420,
+        "id":"5"
+    },
+    {
+        "nombre":"SUMATRA 250gr",
+        "imagen": "img/bolsitaSumatra.jpg",
+        "tipo":"Varietal de tostado natural",
+        "sabor": "intenso",
+        "precio": 490,
+        "id": "6"
+    },
+    
+    {
+        "nombre":"BARISTA 500gr",
+        "imagen": "img/bolsitaBarista.jpg",
+        "tipo":"Blend de tostado natural",
+        "sabor": "suave",
+        "id": "7",
+        "precio": 750
+    },
+    
+    {
+        "nombre":"COLOMBIA 500gr",
+        "imagen": "img/bolsitaColombia.jpg",
+        "tipo":"Blend de tostado natural",
+        "sabor": "suave",
+        
+        "precio": 790,
+        "id":"8"
+    },
+    {
+        "nombre":"BRASIL 500gr",
+        "imagen": "img/bolsitaBrasil.jpg",
+        "tipo": "Varietal de tostado natural",
+        "sabor": "suave",
+        "precio": 790,
+        "id":"9"
+    }
+] 
