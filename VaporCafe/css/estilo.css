@@ -118,12 +118,12 @@ p a:hover {
 .section-cafe h3{
   font-family:'yusei magic';
   font-weight: 500;
-  text-shadow: 2px 2px 5px;
+  text-shadow: 2px 12px 15px whitesmoke;
   
 }
 
 .section-cafe p {
-  text-shadow: 2px 2px 10px;
+  text-shadow: 2px 5px 15px whitesmoke;
   font-weight: 400;
 }
 .containerCafes {
@@ -428,9 +428,9 @@ p a:hover {
     color:black;
     font-family: 'yusei magic';
     font-weight: 400;
-    background: linear-gradient(transparent,rgb(250, 250, 249));
+    background: linear-gradient(transparent,rgba(250, 250, 249));
     z-index: 500;
-    text-shadow: 2px 2px 5px;
+    text-shadow: 2px 12px 15px whitesmoke;
     animation-name: animado;
     animation-iteration-count: 1;
     animation-timing-function: ease-in;
