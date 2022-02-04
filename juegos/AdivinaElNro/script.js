@@ -33,6 +33,7 @@ document.querySelector('.check').addEventListener('click', function () {
   } else if (guess !== secretNumber) {
     if (score > 1) {
       displayMessage(guess > secretNumber ? '📈 Muy alto!' : '📉 Muy bajo!');
+      //condicion ? true : false
       score--;
       document.querySelector('.score').textContent = score;
     } else {

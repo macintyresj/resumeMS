@@ -59,7 +59,7 @@ table {
 }
 .white {
   background-color: white;
-  border: white;
+  border: rgb(8, 8, 8);
 }
 
 .yellow {
