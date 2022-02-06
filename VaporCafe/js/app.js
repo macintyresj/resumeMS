@@ -226,6 +226,7 @@ function CrearProducto() {
         nodoProductos.classList.add('card', 'cardTienda', 'mr-1');
         nodoProductos.style.width = '32%';
         nodoProductos.style.marginBottom = '1rem';
+        nodoProductos.style.borderRadius = 0;
 
         let nodoCardBody = document.createElement('div');
         nodoCardBody.classList.add('card-body', 'p-1');
@@ -249,8 +250,9 @@ function CrearProducto() {
         
         // Boton 
         let nodoBoton = document.createElement('button');
-        nodoBoton.classList.add('btn', 'btn-dark');
+        nodoBoton.classList.add('btn');
         nodoBoton.textContent = '+';
+        nodoBoton.style.borderRadius = 0;
         nodoBoton.setAttribute('marcador', info.id);
         nodoBoton.addEventListener('click', agregarAlCarrito);
     
@@ -296,6 +298,7 @@ function actualizarCarrito() {
         miBoton.classList.add('btn', 'btn-dark');
         miBoton.textContent = 'X';
         miBoton.style.marginLeft = '1rem';
+        miBoton.style.borderRadius= 0;
         miBoton.setAttribute('item', item);
         miBoton.addEventListener('click', borrarItemCarrito); 
     

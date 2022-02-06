@@ -118,12 +118,12 @@ p a:hover {
 .section-cafe h3{
   font-family:'yusei magic';
   font-weight: 500;
-  text-shadow: 2px 12px 15px whitesmoke;
+  text-shadow: 2px 1px 6px whitesmoke;
   
 }
 
 .section-cafe p {
-  text-shadow: 2px 5px 15px whitesmoke;
+  text-shadow: 2px 1px 6px whitesmoke;
   font-weight: 400;
 }
 .containerCafes {
@@ -164,8 +164,7 @@ p a:hover {
   color: white; 
 }
 
-.containerCafes .flipCard .flipCardInner .flipCardFront h3 {
-    font-size: 1.8vw;
+.containerCafes .flipCard .flipCardInner .flipCardFront h5 {
     color: #ffc800;
     font-family: "montserrat";
     letter-spacing: 1vw; 
